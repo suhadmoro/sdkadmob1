@@ -1,0 +1,303 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tangga Lagu Minang Offline",
+      "image": "file:///android_asset/image/ImgaeHeader.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Akhiri Luko Dihati",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/01.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 2,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Balaku Bana Bakato Baiak",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/02.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Banci Barubah Cinto",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/03.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+    {
+      "id": 4,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Bansaik Tasisiah Dek Nan Kayo",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/04.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 5,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Batamu Mangko Bapisah",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/05.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 6,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Bidadari Sarugo",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/06.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 7,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Binalu Rindu",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/07.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 8,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Binaso Cinto",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/08.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+    {
+      "id": 9,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Cinta Tinggal Cerita",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/09.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 10,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Cinto Lah Bakisah",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 11,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Cinto Paubek Luko",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 12,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Cinto Saliang Picayo",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 13,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Cinto Sayang Uda",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+    {
+      "id": 14,
+      "name_category": "ABADI SELAMANYA",
+      "title": "Dialiah Sayang",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 15,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Dulu Diurang Kini Diawak",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 16,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Hilang Sakijok Mato",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 17,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Inai Pintak Rang Tuo",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 18,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Janji Indak Tatabuih",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+    {
+      "id": 19,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Janji Manjalang Rantau",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 20,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Lakehlah Pulang",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 21,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Malu-Malu Jatuah Cinto",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 22,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Manabuih Janji",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 23,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Mananti Jawek Cinto",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+    {
+      "id": 24,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Mangganggam Dalam Rasian",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 25,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Nyao Taruhan Cinto",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 26,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Panantian Dagang Kapulang",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 27,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Pintak Dibari Upek Dimakan",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 28,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Putuih Indak Kabasambuang",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/28.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+    {
+      "id": 29,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Rindu Talarang",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 30,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Sabuai Saayun Gamang",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 31,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Sagantang Bareh",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/31.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 32,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Sakik Indak Ka Baulang",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/32.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 33,
+      "name_category": "Tangga Lagu Minang Offline",
+      "title": "Salah Di Awak Bana Di Urang",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/33.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Tangga Lagu Minang Offline Terlengkap Dan bagus</p>"
+	}
+  ]
+}
