@@ -1,0 +1,247 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "image": "file:///android_asset/image/ImgaeHeader.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "RUNTAH",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/01.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 2,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "Tenaga Kerja Wanita",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/02.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "Teteg Ati",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/03.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+    {
+      "id": 4,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "TIARA",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/04.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 5,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "KLEBUS",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/05.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 6,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "ANTARA KAU DIA DAN AKU",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/06.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 7,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "BILA NANTI",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/07.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 8,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "Capek Seharian Cari Uang",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/08.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+    {
+      "id": 9,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "Cari Pengganti",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/09.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 10,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "Cidro 3",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 11,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "CINTA UNTUKMU SAYANG",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 12,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "DISINI DIBATAS KOTA INI",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 13,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "Ikhlas Ngenteni",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+    {
+      "id": 14,
+      "name_category": "ABADI SELAMANYA",
+      "title": "ILU IMU",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 15,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "LANGIT MENDUNG KUTHO NGAWI",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 16,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "Menghapus Jejakmu",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 17,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "Mungkin Nanti",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 18,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "Purnama Merindu",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+    {
+      "id": 19,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "Rungokno Aku",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 20,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "SAYANG",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 21,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "Sia Sia Berjuang",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 22,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "Suket Teki",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 23,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "TAK KAN BERPISAH",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+    {
+      "id": 24,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "Wegah Kelangan",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 25,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "Wulan Merindu",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	},
+	{
+      "id": 26,
+      "name_category": "Dangdut Koplo Palapa Offline",
+      "title": "Yang Terdalam",
+      "image": "file:///android_asset/image/ImgaeHeader.png",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Dangdut Koplo Palapa Offline Terlengkap Dan bagus</p>"
+	}
+  ]
+}
